@@ -2,9 +2,8 @@
 
 ## Contributors
 
-Arnav Gupta (23114010), Krish Singla (23114050), Megh Bhavesh Shah (23114065), Tanay Kapadia (23323044), Vaghasiya Jay (23114104)
-
-Made as a course project for CSC-201 (Computer Organization & Architecture), IITR
+Krish Singla (23114050)
+Made as a course project for CSC-201 (Computer Organization & Architecture), IITR under the Programming and Algorithms Club, IIT Roorkee.
 
 ## Objectives
 
